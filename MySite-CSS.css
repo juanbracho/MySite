@@ -1,0 +1,160 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: "century gothic", Helvetica, Arial, sans-serif;
+    font-size: 1.25em;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    color: #30475e;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    color: #30475e;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    color: #c1a57b;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #c1a57b 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a {
+    color: #c1a57b;
+    font-family: 'Dancing Script', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.top-container {
+    background-color: #ececec;
+    position: relative;
+    padding-top: 100px;
+}
+  
+.middle-container {
+    margin: 100px 0;
+}
+  
+.bottom-container {
+    background-color: #30475e;
+    padding: 50px 0 20px;
+}
+  
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: justify;
+}
+  
+.developer {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+  
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.top {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+  
+.bot {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.lawyer {
+    text-decoration: underline;
+}
+
+.profile {
+    width: 50%;
+    margin: 100px auto;
+    text-align: justify;
+    line-height: 1.5;
+}
+.gamer-img {
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+.law-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.browser-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.programmer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #40514E, #30475e);
+    background-image: -moz-linear-gradient(top, #40514E, #30475e);
+    background-image: -ms-linear-gradient(top, #40514E, #30475e);
+    background-image: -o-linear-gradient(top, #40514E, #30475e);
+    background-image: linear-gradient(to bottom, #40514E, #30475e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #c1a57b;
+    background-image: -webkit-linear-gradient(top, #fed39f, #c1a57b);
+    background-image: -moz-linear-gradient(top, #fed39f, #c1a57b;
+    background-image: -ms-linear-gradient(top, #fed39f, #c1a57b);
+    background-image: -o-linear-gradient(top, #fed39f, #c1a57b);
+    background-image: linear-gradient(to bottom, #fed39f, #c1a57b);
+    text-decoration: none;
+}
