@@ -1,0 +1,22 @@
+body {
+    background-color:#dee3e2;
+    font-family: century;
+}
+hr {
+    background-color: #dee3e2;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #434e52;
+    border-width: 5px;
+    width: 5%;
+}
+h1, h3 {
+    color: #84a9ac;
+}
+h1 {
+    margin: 0;
+    font-family: 'Comic Neue', cursive;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
